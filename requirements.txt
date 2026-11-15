@@ -1,0 +1,6 @@
+# Versions used to produce the results in the paper (Python 3.13)
+pandas==3.0.5
+numpy==2.5.3
+lightgbm==4.7.0
+scipy==1.18.1
+pingouin==0.7.0
