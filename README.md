@@ -1,6 +1,7 @@
 # Global LightGBM vs Croston's method for daily product-store sales (M5)
 
 Reproducible code for the Final Research Project, Predictive Analytics Methods.
+
 Author: Margarita Serebrennikova (AIB-2401)
 
 ## What it does
